@@ -16,7 +16,7 @@ window.MTUK_CHAT_CONFIG=window.MTUK_CHAT_CONFIG||{};window.MTUK_CHAT_CONFIG.endp
     logoUrl: 'https://module-t.co.uk/wp-content/uploads/2025/12/logo.webp',
     subtitle: 'Ask us anything \u00b7 Replies instantly',
     greeting: "Hi there \ud83d\udc4b I'm the Module-T assistant. Looking for a site office, toilet cabin, changing room or a larger modular building? Ask me anything or get a free quote.",
-    quickReplies: ['Site office', 'Toilet / shower cabin', 'Security cabin', 'Get a free quote'],
+    quickReplies: ['Office containers', 'Toilet cabins', 'Changing rooms', 'Security cabins', 'Site offices', 'Get a free quote', 'Other'],
     teaser: 'Need a cabin? Get a free quote in 2 minutes',
     teaserDelayMs: 15000,
     transport: null                     // optional custom function(payload) -> Promise<{reply}>
